@@ -1,6 +1,6 @@
 # Mastering-SFML-Game-Development
 
-This is the code repository for[Mastering SFML Game Development](https://www.packtpub.com/game-development/mastering-sfml-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781786469885),published by Packt.It contains all the supporting
+This is the code repository for [Mastering SFML Game Development](https://www.packtpub.com/game-development/mastering-sfml-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781786469885),published by Packt.It contains all the supporting
 project files necessary to work through the book from start to finish.
 
 ## Instructions and Navigation
