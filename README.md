@@ -18,7 +18,7 @@ public:
 
 ## Related products:
 * [SFML Game Development By Example](https://www.packtpub.com/game-development/sfml-game-development-example?utm_source=github&utm_medium=repository&utm_campaign=9781785287343)
-* [SFML Blueprints]https://www.packtpub.com/game-development/sfml-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781784398477)
+* [SFML Blueprints](https://www.packtpub.com/game-development/sfml-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781784398477)
 * [SFML Game Development](https://www.packtpub.com/game-development/sfml-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781849696845)
 
 
