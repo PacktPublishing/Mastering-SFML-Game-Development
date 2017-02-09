@@ -10,11 +10,11 @@ This book will help you become an expert of SFML by using all of its features to
 All of the code is organized into folders.Each folder starts with a number followed by the application name.
 The commands and instructions will look like the following:
 
-class Observer{ 
-public: 
-  virtual ~Observer(){} 
-  virtual void Notify(const Message& l_message) = 0; 
-};
+    class Observer{ 
+    public: 
+    virtual ~Observer(){} 
+    virtual void Notify(const Message& l_message) = 0; 
+    };
 
 ## Related products:
 * [SFML Game Development By Example](https://www.packtpub.com/game-development/sfml-game-development-example?utm_source=github&utm_medium=repository&utm_campaign=9781785287343)
